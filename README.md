@@ -68,7 +68,7 @@ Got status code of 405 on http://localhost:4000/create (post=false) instead of 2
 <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"/>
 ```
 
-...not that this proxy returned an HTTP 503.
+...note that this proxy returned an HTTP 503.
 
 Connect to the same service, but make a POST request:
 ```
